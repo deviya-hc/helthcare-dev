@@ -1,2 +1,4 @@
 this code is devloped top of branch1
 i am updating in master branch
+i am updating in branch1
+
